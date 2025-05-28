@@ -1,5 +1,5 @@
 # EXP NO: 6
-# DATE:
+# DATE: 20.05.2025
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
